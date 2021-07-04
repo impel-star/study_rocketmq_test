@@ -8,5 +8,5 @@ package com.service;
  * @Version 1.0
  */
 public class RocketMqService {
-    
+
 }
